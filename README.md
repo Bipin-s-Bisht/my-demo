@@ -1,7 +1,8 @@
 # my-demo
 this is my demo repository
 this is created on 3may 
-by the ownwe bipin singh bisht
-just a readme file
+by the owner bipin singh bisht
+<br>
+just a readme file<br>
 Author - Bipin singh bisht
 
